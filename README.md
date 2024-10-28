@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an Android Studio Project<br>🤝 I’m looking for help with security features for my application<br>🌱 I’m currently learning, Java, CPP and C
+🔭 I’m currently working on a .NET framework project c#<br>🤝 I’m looking for help with security features for my application<br>🌱 I’m currently learning, Java, C# and C
 
 
 # 💻 Tech Stack:

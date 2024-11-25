@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a .NET framework project c#<br>🌱 I’m currently learning, Java, C# and C
+🔭 I’m currently working on a .NET framework project c#<br>🌱 I’m currently learning, Java, C# and C <br> 🎓 Uni Eibar-Ermua student 
 
 
 # 💻 Tech Stack:
